@@ -1,0 +1,25 @@
+.styled-table td:nth-child(1) {
+    width: 140px; /* Atur lebar sesuai kebutuhan */
+    max-width: 140px; /* Batasi lebar maksimum jika diperlukan */
+    word-wrap: break-word; /* Memastikan teks panjang memanjang ke bawah */
+}
+
+.styled-table td:nth-child(2) {
+    width: 340px; /* Atur lebar sesuai kebutuhan */
+    max-width: 340px; /* Batasi lebar maksimum jika diperlukan */
+    word-wrap: break-word; /* Memastikan teks panjang memanjang ke bawah */
+}
+
+.styled-table td:nth-child(7) {
+    width: 180px; /* Atur lebar sesuai kebutuhan */
+    max-width: 180px; /* Batasi lebar maksimum jika diperlukan */
+    word-wrap: break-word; /* Memastikan teks panjang memanjang ke bawah */
+}
+
+.sort {
+    float: right;
+}
+
+.sort-info {
+    text-align: center;
+}
