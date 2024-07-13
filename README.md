@@ -25,9 +25,9 @@ Collaboration Group
 
 
 ## Result
-<img align="center" width="600" src="todoo1.png" />
-<img align="center" width="600" src="todoo2.png" />
-<img align="center" width="600" src="todoo3.png" />
+<img align="center" width="600" src="Todoo1.png" />
+<img align="center" width="600" src="Todoo2.png" />
+<img align="center" width="600" src="Todoo3.png" />
 
 
 # How to install this project
