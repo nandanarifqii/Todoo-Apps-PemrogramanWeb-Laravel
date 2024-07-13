@@ -24,7 +24,7 @@ Collaboration Group
 -Membuat notice
 
 
-## Result (The following image is not the final result as it was taken before applying CSS)
+## Example Result (The following image is not the final result as it was taken before applying CSS)
 <img align="center" width="600" src="Todoo1.png" />
 <img align="center" width="600" src="Todoo2.png" />
 <img align="center" width="600" src="Todoo3.png" />
