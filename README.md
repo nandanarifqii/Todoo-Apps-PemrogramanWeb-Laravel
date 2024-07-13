@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/72ea74da-ee75-489e-913b-f4dc47cf3a59)# Proyek Pemrograman Web - Todoo App (Website untuk List Tugas / To-do list) menggunakan PHP Laravel
+# Proyek Pemrograman Web - Todoo App (Website untuk List Tugas / To-do list) menggunakan PHP Laravel
 
 ## Overview
 Todoo merupakan aplikasi berbasis web yang memungkinkan pengguna untuk menuliskan semua kegiatan atau tugas yang 
